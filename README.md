@@ -3,6 +3,7 @@
 ## Project setup
 ```
 yarn install
+edit .env file with your backend URL
 ```
 
 ### Compiles and hot-reloads for development
